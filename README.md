@@ -1,9 +1,9 @@
-# Project M5
-Tugas praktikum Minggu 5 - Protect and social network
+# Project m5:
+Tugas praktikum Minggu 5
 
 ## 📸 Preview
-![App Greeting](<img width="730" height="1600" alt="ss tugas5" src="https://github.com/user-attachments/assets/7de9913d-287b-4354-86c3-9f8f20f2c1c8" />
-)
+<img width="730" height="1600" alt="ss tugas5" src="https://github.com/user-attachments/assets/b9b20665-cebd-45c3-98fb-c1875ad3278a" />
+/>
 
 ## 🔗 Demo
 [Cek di Expo Snack](https://snack.expo.dev/@priskalaiacio/b672bb)
